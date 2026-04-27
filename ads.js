@@ -1,12 +1,12 @@
 // ╔═════════════════════════════════════════════════════════════════════════╗
 // ║                    REMOTE ADS CONFIGURATION FILE                      ║
 // ║                                                                       ║
-// ║   Is file ko edit kar ke sab sites pe ads update ho jayenge.          ║
-// ║   Kisi bhi ad ko band karne ke liye ON = false kar dein.              ║
+// ║   Edit this file to update ads across all connected websites.         ║
+// ║   Set ON = false to disable any specific ad unit.                     ║
 // ╚═════════════════════════════════════════════════════════════════════════╝
 
 // =========================================================================
-// ⚙️  AD CODES — SIRF NEECHE WALE VALUES CHANGE KAREIN
+// ⚙️  AD CODES — ONLY CHANGE THE VALUES BELOW
 // =========================================================================
 
 // 2️⃣ TOP BANNER — DESKTOP (728x90)
@@ -77,7 +77,7 @@ var STICKY_MOBILE_ON = true;
 
 
 // =========================================================================
-// 🔧  NEECHE WALA CODE CHANGE MAT KAREIN! (Injection Logic)
+// 🔧  DO NOT MODIFY THE CODE BELOW! (Injection Logic)
 // =========================================================================
 
 function initAds() {
