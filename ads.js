@@ -12,61 +12,61 @@
 // 2️⃣ TOP BANNER — DESKTOP (728x90)
 var BANNER_DESKTOP_ON = true;
 var BANNER_DESKTOP_CODE = `
-<script type="text/javascript">
-    atOptions = {
-        'key' : '5194438181bace0f74e7b8f17db001fa',
-        'format' : 'iframe',
-        'height' : 90,
-        'width' : 728,
-        'params' : {}
-    };
+<script>
+  atOptions = {
+    'key' : 'ab33a70d5ba163b6913cee19036eb2ad',
+    'format' : 'iframe',
+    'height' : 90,
+    'width' : 728,
+    'params' : {}
+  };
 </script>
-<script type="text/javascript" src="https://lucentanxiouslyfleeting.com/5194438181bace0f74e7b8f17db001fa/invoke.js"></script>
+<script src="https://marksdespitelinear.com/ab33a70d5ba163b6913cee19036eb2ad/invoke.js"></script>
 `;
 
 // 3️⃣ TOP BANNER — MOBILE (320x50) 
 var BANNER_MOBILE_ON = true;
 var BANNER_MOBILE_CODE = `
-<script type="text/javascript">
-    atOptions = {
-        'key' : '4997605b13cabd6b8c0e863a3a4a35ae',
-        'format' : 'iframe',
-        'height' : 50,
-        'width' : 320,
-        'params' : {}
-    };
+<script>
+  atOptions = {
+    'key' : '16ddedc7dce08ba8c96db98ae88010f8',
+    'format' : 'iframe',
+    'height' : 50,
+    'width' : 320,
+    'params' : {}
+  };
 </script>
-<script type="text/javascript" src="https://lucentanxiouslyfleeting.com/4997605b13cabd6b8c0e863a3a4a35ae/invoke.js"></script>
+<script src="https://marksdespitelinear.com/16ddedc7dce08ba8c96db98ae88010f8/invoke.js"></script>
 `;
 
 // 4️⃣ SIDEBAR AD 1 (300x250)
 var SIDEBAR_1_ON = true;
 var SIDEBAR_1_CODE = `
-<script type="text/javascript">
-    atOptions = {
-        'key' : 'd2c453b6d89d67613ccc7f1230c199e8',
-        'format' : 'iframe',
-        'height' : 250,
-        'width' : 300,
-        'params' : {}
-    };
+<script>
+  atOptions = {
+    'key' : '139e79bacf83c0bce7c111945c083552',
+    'format' : 'iframe',
+    'height' : 250,
+    'width' : 300,
+    'params' : {}
+  };
 </script>
-<script type="text/javascript" src="https://lucentanxiouslyfleeting.com/d2c453b6d89d67613ccc7f1230c199e8/invoke.js"></script>
+<script src="https://marksdespitelinear.com/139e79bacf83c0bce7c111945c083552/invoke.js"></script>
 `;
 
 // 5️⃣ SIDEBAR AD 2 (160x300)
 var SIDEBAR_2_ON = true;
 var SIDEBAR_2_CODE = `
-<script type="text/javascript">
-    atOptions = {
-        'key' : '9322531d207569ff4ada18981673dcfa',
-        'format' : 'iframe',
-        'height' : 300,
-        'width' : 160,
-        'params' : {}
-    };
+<script>
+  atOptions = {
+    'key' : '0306c344716b8f4513e3a0bb308f5a14',
+    'format' : 'iframe',
+    'height' : 300,
+    'width' : 160,
+    'params' : {}
+  };
 </script>
-<script type="text/javascript" src="https://lucentanxiouslyfleeting.com/9322531d207569ff4ada18981673dcfa/invoke.js"></script>
+<script src="https://marksdespitelinear.com/0306c344716b8f4513e3a0bb308f5a14/invoke.js"></script>
 `;
 
 // 6️⃣ STICKY BOTTOM — DESKTOP (728x90) (Uses Top Banner Desktop Code)
