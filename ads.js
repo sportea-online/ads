@@ -24,6 +24,7 @@ var BANNER_DESKTOP_CODE = `
 <script src="https://marksdespitelinear.com/b43400778d2c3270e540c4e1a8c457a3/invoke.js"></script>
 `;
 
+
 // 3️⃣ TOP BANNER — MOBILE (320x50) 
 var BANNER_MOBILE_ON = true;
 var BANNER_MOBILE_CODE = `
