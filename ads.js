@@ -14,14 +14,14 @@ var BANNER_DESKTOP_ON = true;
 var BANNER_DESKTOP_CODE = `
 <script>
   atOptions = {
-    'key' : 'ab33a70d5ba163b6913cee19036eb2ad',
+    'key' : 'bfd4b938a0660bdb1ecff77eb44d7f39',
     'format' : 'iframe',
     'height' : 90,
     'width' : 728,
     'params' : {}
   };
 </script>
-<script src="https://marksdespitelinear.com/ab33a70d5ba163b6913cee19036eb2ad/invoke.js"></script>
+<script src="https://marksdespitelinear.com/bfd4b938a0660bdb1ecff77eb44d7f39/invoke.js"></script>
 `;
 
 // 3️⃣ TOP BANNER — MOBILE (320x50) 
@@ -29,14 +29,14 @@ var BANNER_MOBILE_ON = true;
 var BANNER_MOBILE_CODE = `
 <script>
   atOptions = {
-    'key' : '16ddedc7dce08ba8c96db98ae88010f8',
+    'key' : '1a199bf910d3d249508606352dc0c35e',
     'format' : 'iframe',
     'height' : 50,
     'width' : 320,
     'params' : {}
   };
 </script>
-<script src="https://marksdespitelinear.com/16ddedc7dce08ba8c96db98ae88010f8/invoke.js"></script>
+<script src="https://marksdespitelinear.com/1a199bf910d3d249508606352dc0c35e/invoke.js"></script>
 `;
 
 // 4️⃣ SIDEBAR AD 1 (300x250)
@@ -44,14 +44,14 @@ var SIDEBAR_1_ON = true;
 var SIDEBAR_1_CODE = `
 <script>
   atOptions = {
-    'key' : '139e79bacf83c0bce7c111945c083552',
+    'key' : 'baf62c909e6ab565cc499999e1cf8deb',
     'format' : 'iframe',
     'height' : 250,
     'width' : 300,
     'params' : {}
   };
 </script>
-<script src="https://marksdespitelinear.com/139e79bacf83c0bce7c111945c083552/invoke.js"></script>
+<script src="https://marksdespitelinear.com/baf62c909e6ab565cc499999e1cf8deb/invoke.js"></script>
 `;
 
 // 5️⃣ SIDEBAR AD 2 (160x300)
@@ -59,14 +59,14 @@ var SIDEBAR_2_ON = true;
 var SIDEBAR_2_CODE = `
 <script>
   atOptions = {
-    'key' : '0306c344716b8f4513e3a0bb308f5a14',
+    'key' : '9a85f9091ab196371be337723dfd5b63',
     'format' : 'iframe',
     'height' : 300,
     'width' : 160,
     'params' : {}
   };
 </script>
-<script src="https://marksdespitelinear.com/0306c344716b8f4513e3a0bb308f5a14/invoke.js"></script>
+<script src="https://marksdespitelinear.com/9a85f9091ab196371be337723dfd5b63/invoke.js"></script>
 `;
 
 // 6️⃣ STICKY BOTTOM — DESKTOP (728x90) (Uses Top Banner Desktop Code)
